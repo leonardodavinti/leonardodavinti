@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+ 
+header {
+   background-color: #9D0A0A;
+   color: rgb(17, 15, 15);
+   display: flex;
+   justify-content: space-around;
+   align-items: center; 
+   padding: 24PX 0;   
+}
+
+.cabeçalho-imagem {
+ width: 10%;
+     }
+
+.cabeçalho-lista-item {
+   display: inline-block;
+   margin: 0 77px;
+   font-size: 24px;
+}
+
+.revendedora-de-carros-imagem {
+   width: 25%;
+}
+        
+.revendedora-de-carros {
+   background-image: linear-gradient(#A01919 #030303);
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 24px 0;
+}
+
+.reven-car {
+   width: 15%;
+}
+
+.carros-revendedora {
+   padding: 24px 0;
+}
+
+.imagem-carro {
+   width: 200px;
+}
+
+.imagem-carro {
+   width: 240px;
+}
+.carros-div{
+   align-items: center;
+}
+.carros-titulo{
+text-align: center;
+padding: 50px 0;
+}
+
+.imagem-todos{
+   display: grid;
+   grid-template-columns: 8% 8% 8% 8% 8% 8% 8%;
+}
+
+
+
+     
